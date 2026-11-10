@@ -8,7 +8,7 @@ const outputDisplay = document.getElementById("card-output");
 // Basic state object
 const appState = {
   text: "",
-  updatedBy: "Anonymous"
+  updatedBy: "BubuBear"
 };
 
 inputField.addEventListener("input", (e) => {
