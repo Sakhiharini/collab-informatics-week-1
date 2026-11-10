@@ -17,4 +17,4 @@ inputField.addEventListener("input", (e) => {
 });
 
 // LINE 18: CONFLICT EXERCISE (Both partners will edit this line)
-const activeTheme = "Assumption Blue";
+const activeTheme = "Emerald Blue";
